@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>96CC97B3-6E4F-4294-BE64-5DD8735021E7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CircleControl</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>44AB2BB8616F01627F3534C3F5BBFF5B089ADF93</key>
+		<string>https://github.com/weishiyue/CircleControl.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CircleControl.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>44AB2BB8616F01627F3534C3F5BBFF5B089ADF93</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/weishiyue/CircleControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>44AB2BB8616F01627F3534C3F5BBFF5B089ADF93</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>44AB2BB8616F01627F3534C3F5BBFF5B089ADF93</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CircleControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
